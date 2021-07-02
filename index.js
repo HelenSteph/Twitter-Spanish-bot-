@@ -8,8 +8,8 @@ const Twitter = require("./twitter.js");
 const config = {
 consumer_key:'Add consumer key',
 consumer_secret:'Add consumer secret' ,
-token:'add token' ,
-token_secret:'add token secret' ,
+token:'Add token' ,
+token_secret:'Add token secret' ,
 env:'test',
 ngrok:'test',
 
