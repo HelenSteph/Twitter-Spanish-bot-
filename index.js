@@ -6,10 +6,10 @@ dotenv.config();
 const Twitter = require("./twitter.js");
 
 const config = {
-consumer_key:'Bsx64wnp9pjbUizqi0j3N9YYW',
-consumer_secret:'HmPkhs1IpmNPp5lrP260zbkkH4CdAAdu4gvP9dTv39avmjP05R' ,
-token:'1317512381107417088-6nofhBMudkMM31C5RaT24oovfjLYLR' ,
-token_secret:'NdDB3smaQ348pV9iEEFp5t3YAeaBRR9ynRVm5HwpunD8j' ,
+consumer_key:'Add consumer key',
+consumer_secret:'Add consumer secret' ,
+token:'add token' ,
+token_secret:'add token secret' ,
 env:'test',
 ngrok:'test',
 
